@@ -6,6 +6,26 @@ For the data, we use videos from the [DFL - Bundesliga Data Shootout](https://ww
 
 You can also use our dataset [football-players-detection-custom](https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking/blob/main/Dataset/football-players-detection.v4i.yolov5pytorch.zip).
 
+## Table of content <!-- omit from toc -->
+- m
+- 
+- [Screenshots](https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking?tab=readme-ov-file#-screenshots)
+- [Technology Stack](https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking?tab=readme-ov-file#technologies-used-%EF%B8%8F)
+- [Project Structure](https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking?tab=readme-ov-file#project-structure)
+- [License](https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking?tab=readme-ov-file#license)
+- [Conclusion](https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking?tab=readme-ov-file#conclusion)
+
+
+## YOLOv5 
+
+YOLOv5 is a state-of-the-art object detection model developed by Ultralytics, known for its exceptional performance, accuracy, and efficiency. It utilizes advanced deep learning techniques and a unique model architecture, combining convolutional neural networks and transformer-based attention mechanisms to accurately detect and localize objects in real-time. One of its key strengths is the ability to strike a balance between speed and accuracy, processing multiple frames per second while maintaining high precision. YOLOv5 is highly versatile, capable of being trained on a wide range of datasets, including custom datasets tailored to specific use cases, making it a valuable tool for researchers, developers, and companies working in various domains. With its impressive performance, efficient inference, and user-friendly interface, YOLOv5 has become a popular choice among the computer vision community.
+
+## ByteTrack
+
+ByteTrack is a Multi Object Tracker, it identifies the detected objects and tracks their trajectory in the video. The algorithm uses tracklets, representation of tracked objects, to store the identity of detections.
+
+The main idea of BYTE (the algorithm behind ByteTrack), is to consider both high and low confidence detections.For each frame the position of the bounding boxes are predicted using a Kalman filter from thprevious positions. The high confidence detections are matched with these predicted tracklets by iou and are identified.The low confidence detection are compared with unmatched tracklets (identified objects are not associated to any bounding box in that frame). This helps identity occulted objects.A bin of unmatched tracklets is kept for **_n_** frames to handle object rebirth. They are deleted beyond **_n_** if they remain unmatched.
+
 ## 👨‍💻: Screenshots
 
 ### ● Output Result

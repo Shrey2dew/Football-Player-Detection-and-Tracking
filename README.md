@@ -7,8 +7,8 @@ For the data, we use videos from the [DFL - Bundesliga Data Shootout](https://ww
 You can also use our dataset [football-players-detection-custom](https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking/blob/main/Dataset/football-players-detection.v4i.yolov5pytorch.zip).
 
 ## Table of content <!-- omit from toc -->
-- m
-- 
+- [YOLOv5](https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking?tab=readme-ov-file#yolov5)
+- [ByteTrack](https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking?tab=readme-ov-file#bytetrack)
 - [Screenshots](https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking?tab=readme-ov-file#-screenshots)
 - [Technology Stack](https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking?tab=readme-ov-file#technologies-used-%EF%B8%8F)
 - [Project Structure](https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking?tab=readme-ov-file#project-structure)

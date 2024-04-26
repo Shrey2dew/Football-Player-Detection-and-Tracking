@@ -8,7 +8,7 @@ You can also use our dataset [football-players-detection-custom](https://github.
 
 ## 👨‍💻: Screenshots
 
-# Output Result
+### ● Output Result
 <div align="left">
  
 | Football PLayer Detection | Football PLayer Tracking | 
@@ -17,11 +17,23 @@ You can also use our dataset [football-players-detection-custom](https://github.
 
 </div>
 
-# Parametric Result
+### ● Parametric Result
 <div align="left">
  
-|  | Football PLayer Tracking | 
+| Precision Confidence Curve | Recall Confidence Curve | 
 | :---         |     :---      |       
-| <img src="https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking/blob/main/Result/Football_Detection_Result.jpg" width="500" height="auto" />  | <img src="https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking/blob/main/Result/Football_player_tracking.png" width="500" height="auto" />    
+| <img src="https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking/blob/main/Result/Parametric%20Results/P_curve.png" width="500" height="auto" />  | <img src="https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking/blob/main/Result/Parametric%20Results/R_curve.png" width="500" height="auto" />  
+
+| Confusion Matrix | F1 Confidence Curve | 
+| :---         |     :---      | 
+ <img src="https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking/blob/main/Result/Parametric%20Results/confusion_matrix.png" width="500" height="auto" />    | <img src="https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking/blob/main/Result/Parametric%20Results/F1_curve.png" width="500" height="auto" /> 
+
+| Results (Graph) |
+| :---         |   
+ <img src="https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking/blob/main/Result/Parametric%20Results/results.png" width="auto" height="auto" />   | 
+
+| Results |
+| :---         |   
+ <img src="https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking/blob/main/Result/Parametric%20Results/results.png" width="auto" height="auto" />   | 
 
 </div>

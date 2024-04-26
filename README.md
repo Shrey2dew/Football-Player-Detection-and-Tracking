@@ -7,9 +7,20 @@ For the data, we use videos from the [DFL - Bundesliga Data Shootout](https://ww
 You can also use our dataset [football-players-detection-custom](https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking/blob/main/Dataset/football-players-detection.v4i.yolov5pytorch.zip).
 
 ## 👨‍💻: Screenshots
+
+# Output Result
 <div align="left">
  
 | Football PLayer Detection | Football PLayer Tracking | 
+| :---         |     :---      |       
+| <img src="https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking/blob/main/Result/Football_Detection_Result.jpg" width="500" height="auto" />  | <img src="https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking/blob/main/Result/Football_player_tracking.png" width="500" height="auto" />    
+
+</div>
+
+# Parametric Result
+<div align="left">
+ 
+|  | Football PLayer Tracking | 
 | :---         |     :---      |       
 | <img src="https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking/blob/main/Result/Football_Detection_Result.jpg" width="500" height="auto" />  | <img src="https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking/blob/main/Result/Football_player_tracking.png" width="500" height="auto" />    
 

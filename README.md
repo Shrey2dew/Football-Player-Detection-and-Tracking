@@ -34,7 +34,7 @@ The main idea of BYTE (the algorithm behind ByteTrack), is to consider both high
 | Football PLayer Detection | Football PLayer Tracking | 
 | :---         |     :---      |       
 | <img src="https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking/blob/main/Result/Football_Detection_Result.jpg" width="500" height="auto" />  | <img src="https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking/blob/main/Result/Football_player_tracking.png" width="500" height="auto" />    
-| _Note : Check results folder tracking video_ |
+| _Note : Check results folder for tracking video_ |
 
 </div>
 

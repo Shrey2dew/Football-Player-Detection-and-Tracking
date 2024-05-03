@@ -81,4 +81,4 @@ Please adhere to this project's `code of conduct`.
 
 ## Conclusion
 In conclusion, this project leverages the power of Ultralytics YOLO models and ByteTracking
-for detection and tracking of football players , football , referee and goalkeeper help football associations to carefully monitor and analyse each and every player.
+for detection and tracking of football players , football , referee and goalkeeper which help football associations to carefully monitor and analyse each and every player.

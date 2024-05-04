@@ -14,7 +14,7 @@ You can also use our dataset [football-players-detection-custom](https://github.
 - [Project Structure](https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking?tab=readme-ov-file#project-structure)
 - [License](https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking?tab=readme-ov-file#license)
 - [Conclusion](https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking?tab=readme-ov-file#conclusion)
-- [Contributors]
+- [Contributors](https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking/blob/main/README.md#contributors)
 
 
 ## YOLOv5 

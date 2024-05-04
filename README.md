@@ -79,6 +79,7 @@ The main idea of BYTE (the algorithm behind ByteTrack), is to consider both high
 
 1. [Shrey Nalode](https://github.com/Shrey2dew)
 2. [Yash Prabhat](https://github.com/yashhh-03)
+3. [Rishi Maheshwari](https://github.com/rishi899)
 
 ## License
 

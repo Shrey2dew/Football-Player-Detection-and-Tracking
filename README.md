@@ -14,6 +14,7 @@ You can also use our dataset [football-players-detection-custom](https://github.
 - [Project Structure](https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking?tab=readme-ov-file#project-structure)
 - [License](https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking?tab=readme-ov-file#license)
 - [Conclusion](https://github.com/Shrey2dew/Football-Player-Detection-and-Tracking?tab=readme-ov-file#conclusion)
+- [Contributors]
 
 
 ## YOLOv5 
@@ -73,6 +74,12 @@ The main idea of BYTE (the algorithm behind ByteTrack), is to consider both high
 ├─── LICENSE
 └─── .gitignore
 ```
+
+## Contributors
+
+1. [Shrey Nalode](https://github.com/Shrey2dew)
+2. [Yash Prabhat](https://github.com/yashhh-03)
+
 ## License
 
 Distributed under the MIT License. See [License](https://choosealicense.com/licenses/mit/) for more information.
